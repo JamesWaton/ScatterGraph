@@ -1,0 +1,17 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+svg{
+    background-color:lightblue;
+}
+
+#tooltip{
+    visibility:hidden;
+    width:auto;
+    height:auto;
+}
